@@ -2,6 +2,7 @@ package net.dana.tutorialmod.block;
 
 import net.cronchywaffle.tutorialmod.TutorialMod;
 import net.dana.tutorialmod.item.ModItems;
+import net.minecraft.client.resources.model.Material;
 import net.minecraft.world.item.BlockItem;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.level.block.Block;
